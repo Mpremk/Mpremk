@@ -24,3 +24,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpremk&show_icons=true&locale=en" alt="mpremk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpremk&theme=default" alt="mpremk" /></p>
+<p align="center">
+  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+</p>
+
+<p align="center">
+  Made with ❤️ in India
+</p>
