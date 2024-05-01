@@ -3,9 +3,9 @@
   <samp>
     Hi 👋🏻 I'm Prem
     <br/>
-    <a href="https://twitter.com/omkar_ghongade">Twitter</a> .
+    <a href="https://www.instagram.com/_pk.18">Instagram</a> .
     <a href="https://www.linkedin.com/in/mpremk/">LinkedIn</a> .
-    <a href="mailto:omkarsubhashghongade21@gmail.com">Mail</a>
+    <a href="mailto:prem.devconnect@gmail.com">Mail</a>
   </samp>
 </p>
 <p align="center">A passionate Game developer from India</h3>
