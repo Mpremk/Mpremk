@@ -4,9 +4,10 @@
     Hi 👋🏻 I'm Prem
     <br/>
     <a href="https://www.instagram.com/_pk.18">Instagram</a> .
-    <a href="https://www.linkedin.com/in/mpremk/">LinkedIn</a> .
-    <a href="mailto:prem.devconnect@gmail.com">Mail</a>
+<a href="mailto:prem.devconnect@gmail.com">Mail</a>
   </samp>
+    <a href="https://www.linkedin.com/in/mpremk/">LinkedIn</a> .
+    
 </p>
 <p align="center">A passionate Game developer from India</h3>
 
