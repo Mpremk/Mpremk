@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/mpremk/">LinkedIn</a> .
   </samp>
 </p>
-<p align="left">-A passionate Game developer from India</h3>
-
-
 
 ###
 - A passionate Game developer from India
