@@ -1,9 +1,7 @@
 <p align="center"><img src="https://res.cloudinary.com/dvqetpbeh/image/upload/v1713591432/giphy_tnwr5q.gif" alt="gif"></p>
  <h6 align= "center">Hi 👋🏻 I'm Prem</h6>
 <p align="center">
-  <samp>
-  
-    <a href="https://www.instagram.com/_pk.18">Instagram</a> .
+  <samp><a href="https://www.instagram.com/_pk.18">Instagram</a> .
     <a href="mailto:premdevconnect@gmail.com">Mail</a>.
 <a href="https://www.linkedin.com/in/mpremk/">LinkedIn</a> .
   </samp>
