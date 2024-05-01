@@ -2,7 +2,7 @@
  <h6 align= "center">Hi 👋🏻 I'm Prem</h6>
 <p align="center">
   <samp>.<a href="https://www.instagram.com/_pk.18">Instagram</a> .
-    <a href="mailto:premdevconnect@gmail.com">Mail</a>.
+    <a href="mailto:premdevconnect@gmail.com">Mail</a> .
 <a href="https://www.linkedin.com/in/mpremk/">LinkedIn</a> .
   </samp>
 </p>
