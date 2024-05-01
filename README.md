@@ -8,7 +8,7 @@
     <a href="mailto:omkarsubhashghongade21@gmail.com">Mail</a>
   </samp>
 </p>
-<h9 align="center">A passionate Game developer from India</h3>
+<h1 align="center">A passionate Game developer from India</h3>
 
 
 
