@@ -7,7 +7,7 @@
 <a href="mailto:prem.devconnect@gmail.com">Mail</a>.
  
     <a href="https://www.linkedin.com/in/mpremk/">LinkedIn</a> .
-     </samp>
+  </samp> 
 </p>
 <p align="center">A passionate Game developer from India</h3>
 
