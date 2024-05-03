@@ -18,6 +18,19 @@
 <p align="center">
 <a href="https://linkedin.com/in/mpremk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mpremk" height="30" width="40" /></a>
 
+</div>
+<br>
+<br>
+<h3>Github Stats 📈</h3>
+
+| ![SAWAN SIHAG GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Mpremk&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mpremk) |
+| --- | --- |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mpremk&theme=light&hide_border=true&line_height=27&width=20) | ![SAWAN's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mpremk&layout=compact&langs_count=8&hide_border=true) | 
+
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Mpremk&theme=github" alt="GitHub Activity Graph" width="100%" />
+<br>
+<div align="center">
 
 
 
