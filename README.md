@@ -8,7 +8,7 @@
 </p>
 
 ###
-- A passionate Game developer from India
+- 🎮 A passionate Game developer from India
 
 - 🌱 I’m currently learning **C++, Javascript**
 
