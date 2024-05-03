@@ -27,8 +27,6 @@
 | --- | --- |
 | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mpremk&theme=light&hide_border=true&line_height=27&width=20) | ![SAWAN's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mpremk&layout=compact&langs_count=8&hide_border=true) | 
 
-
-<img src="https://activity-graph.herokuapp.com/graph?username=Mpremk&theme=github" alt="GitHub Activity Graph" width="100%" />
 <br>
 <div align="center">
 
