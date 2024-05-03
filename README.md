@@ -10,7 +10,7 @@
 ###
 - A passionate Game developer from India
 
-- 🌱 I’m currently learning ** C++, Javascript, **
+- 🌱 I’m currently learning **C++, Javascript**
 
 - 📫 How to reach me **Prem.devconnect@gmail.com**
 
